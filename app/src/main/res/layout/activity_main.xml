@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/bt_call_plugin_increase"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="执行插件中的方法" />
+
+    <Button
+        android:id="@+id/bt_load_plugin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="加载插件中的 View" />
+
+    <FrameLayout
+        android:id="@+id/container"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_marginTop="16dp"
+        android:background="#00ff00" />
+
+</LinearLayout>

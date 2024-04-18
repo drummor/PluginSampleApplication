@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">EnterCallback</string>
+    <string name="a_base_name_string">from base-common</string>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="deploymentTargetDropDown">
+    <value>
+      <entry key="SamplePlugin">
+        <State />
+      </entry>
+      <entry key="app">
+        <State />
+      </entry>
+      <entry key="basecommon">
+        <State />
+      </entry>
+      <entry key="sample-plugin">
+        <State />
+      </entry>
+      <entry key="singleplugin">
+        <State />
+      </entry>
+    </value>
+  </component>
+</project>
